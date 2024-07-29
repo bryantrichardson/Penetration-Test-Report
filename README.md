@@ -14,4 +14,4 @@ For this project, I go through a fake company's back end databases and web appli
 * **Kali Linux**
 
 ## Link to the Report on Google Docs
-* <a href="https://docs.google.com/document/d/1kgM6go8WqhInGY_2VQjpT8pr1VZ84jEyIdTcZOWrLQU/edit"> Penetration Test Report </a>
+* <a href="https://docs.google.com/document/d/1kgM6go8WqhInGY_2VQjpT8pr1VZ84jEyIdTcZOWrLQU/edit"> **Penetration Test Report** </a>
